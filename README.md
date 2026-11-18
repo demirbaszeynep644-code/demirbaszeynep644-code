@@ -3,7 +3,7 @@ Hi there 👋
 Here are some ideas to get you started:
 
 - 🌱 I’m currently taking the Technology Literacy course at Patika.dev
-- 🌱 I’m currently learning Python, C#, SQL
+- 🌱 I’m currently learning Python, C#, SQL,Matlap
 - 📫 How to reach me: demirbaszeynep644@gmail.com
 
 <br>
