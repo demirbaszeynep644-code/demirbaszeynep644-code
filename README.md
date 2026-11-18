@@ -4,7 +4,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently taking the Technology Literacy course at Patika.dev
 - 🌱 I’m currently learning Python, C#, SQL
-- 📫 How to reach me: e-posta_adresiniz@gmail.com
+- 📫 How to reach me: demirbaszeynep644@gmail.com
 
 <br>
 
