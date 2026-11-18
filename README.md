@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=demirbaszeynep644&show_icons=true&locale=en&theme=dark" alt="Zeynep İrem Demirbaş GitHub İstatistikleri" />
-</p>
 Hi there 👋
 
 Here are some ideas to get you started:
